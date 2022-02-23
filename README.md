@@ -1,5 +1,5 @@
 # RandPic
-A simple iOS app to generate random picures <br>
+A simple iOS app to generate random pictures <br>
 <h1>Sample Views</b></h1>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/76846542/151670256-3def8f2e-2b9e-4e5c-b9ff-0a69ca48379c.png" width=310 height = 600>
